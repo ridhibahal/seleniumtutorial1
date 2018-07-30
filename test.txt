@@ -1,1 +1,7 @@
 Sample test file
+Sample test file
+Sample test file
+Sample test file
+Sample test file
+$ git commit -m "second commit"
+
